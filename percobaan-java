@@ -1,0 +1,4 @@
+ nil1=Integer.parseInt(TxtNil1.getText());
+        nil2=Integer.parseInt(TxtNil2.getText());
+        hal=nil1*nil2;
+        TxtHasil.setText(String.valueOf(hal));
